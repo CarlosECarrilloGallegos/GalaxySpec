@@ -1,0 +1,2 @@
+# spectralfit
+spectralfit python package
